@@ -12,4 +12,4 @@ Tru
 ## Games Made
 
 - ###### None at all
-- One [game] (\Web\)
+- One [game] (\Web\index.html)
